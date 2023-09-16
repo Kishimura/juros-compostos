@@ -1,1 +1,1 @@
-Este programa auxilia seus clientes a realizar depósitos em suas contas. O programa deve solicitar ao cliente o valor do depósito e verificar se o valor é válido. Se o valor for maior do que zero, o programa deve adicionar o valor ao saldo da conta. Caso contrário, o programa deve exibir uma mensagem de erro. O programa deve soliticar apenas uma vez o valor de depósito.
+ Este programa deve calcular e retornar o valor final do investimento após o período determinado, levando em consideração os juros compostos.
